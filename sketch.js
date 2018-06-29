@@ -1,3 +1,7 @@
+// Written by Jake Baker
+// "Exploring Randomness with Generative Art"
+// @jhbaker_
+
 let area;
 let colorFade;
 let gaussFade;
